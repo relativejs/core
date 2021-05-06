@@ -22,8 +22,8 @@ DEFINE_BEHAVIOR(
 
 	// the styles to be applied
 	`
-        background: #a00;
-        color: #fff;
+		background: #a00;
+		color: #fff;
 	`
 )
 </script>
@@ -43,6 +43,8 @@ There was a time that web development was way simpler: Write a file on any edito
 You define a CSS selector to be listened to. Every time an element is created and it matches that selector, your function will be called and the style will be attatched. How is it helpful?
 - any selector valid CSS selector can be used
 	- no more limit to only tag names with dashes like HTML5's Custom Components
+	- descriptive html
+	- tags, subtags, attributes, classes, ids, or a combination of it all. go nuts
 - no need for a separate CSS file to define the styles of your components
 
 
