@@ -6,7 +6,7 @@ No build process required.
 
 ## Basics
 ```html
-<script src='../assets/relative/relative.js'></script>
+<script src='relative.js'></script>
 
 <!-- a component definition, via function call -->
 <script>
